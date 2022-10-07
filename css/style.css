@@ -1,0 +1,8 @@
+
+[class*= "__container"]{
+	margin: 0 auto;
+	max-width: 810px;
+}
+img{
+	max-width: 100%
+}
